@@ -1,3 +1,3 @@
-node 'node1.mydomain' {
+node 'agent.lo' {
   include profile::base
 }
