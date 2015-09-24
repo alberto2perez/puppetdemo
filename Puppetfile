@@ -2,7 +2,4 @@ forge 'forge.puppetlabs.com'
 
 # Forge Modules
 mod 'puppetlabs/ntp', '4.1.0'
-mod 'puppetlabs/stdlib'
-mod 'puppetlabs/mysql', '3.6.0'
-mod 'puppetlabs/apt', '2.1.1'
-mod 'initforthe/build_essential', '0.0.4'
+mod 'puppet-common', href="https://github.com/puppet-modules/puppet-common.git"
