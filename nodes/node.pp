@@ -1,3 +1,3 @@
-node 'agent.lo' {
+node 'agent' {
    include squid
 }
