@@ -1,4 +1,4 @@
-node 'puppet' {
+node 'puppet.lo' {
   cron {
     'run-r10k':
       ensure  => 'present',
